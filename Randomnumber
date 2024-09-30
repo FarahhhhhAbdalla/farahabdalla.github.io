@@ -1,3 +1,5 @@
+#random number
+
 ```mermaid
 flowchart TD
     Start([Start]) --> GenerateNumber["Generate a random number within a specific range"]
